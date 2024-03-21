@@ -37,3 +37,21 @@
     top: 0;
     left: 9px;
 }
+
+#drive #green:after {
+    content: "";
+    border-bottom: 40px solid;
+    border-right: 45px solid;
+    left: -6px;
+    bottom: -1px;
+}
+
+#drive #green:after {
+    content: "";
+    border-bottom: 40px solid white;
+    border-right: 45px solid transparent;
+    position: absolute;
+    left: -6px;
+    bottom: -1px;
+}
+
